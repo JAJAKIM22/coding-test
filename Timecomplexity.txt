@@ -1,0 +1,5 @@
+Time complexity of MergeSort is O(n log n)
+For large datasets, Merge Sort outperforms linear-time sorting algorithms like Insertion 
+Sort and Bubble Sort in terms of speed. Nevertheless, the expense of merging procedures 
+and recursive calls may outweigh the efficiency of competing algorithms, 
+such as Quick Sort or Heap Sort, for small datasets.

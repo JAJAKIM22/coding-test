@@ -36,3 +36,6 @@ def merge(left, right):
 arr = [70, 70, 8, 6, 230, 8, 56]
 sorted_arr = merge_sort(arr)
 print(sorted_arr)
+
+# Time complexity: O(n log n)
+
